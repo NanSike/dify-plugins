@@ -12,7 +12,7 @@ git clone https://github.com/inlei/my-dify-plugins.git
 ## Contribution
 
 Feel free to enhance these plugins!
-Actively maintained. Suggestions and contributions are always welcome.
+More plugins are on the way — stay tuned and feel free to drop your ideas anytime!
 
 ## License
 
